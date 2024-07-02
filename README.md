@@ -2,7 +2,7 @@
 I developed a number guessing game with a graphical user interface using Python and the tkinter library. The game challenges users to guess a randomly generated number between 1 and 100, providing feedback on each guess.
 In this project, I developed a simple yet interactive number guessing game using Python and the tkinter library for the graphical user interface (GUI). The objective of the game is to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guessed number is too high or too low, encouraging the user to keep guessing until they find the correct number. This project helped me enhance my programming skills and learn more about GUI development in Python.
 
-Libraries Used
+Libraries Used:
 1.random
   Used for generating a random number that the user has to guess.
 
